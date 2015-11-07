@@ -21,4 +21,4 @@ personali.
 
 Ecco un elenco degli appunti già presenti in qualche forma
 
-1. [Grafici deducibili da grafici elementari](http://nbviewer.ipython.org/github/orporick/MathPhys/blob/master/notebooks/GraficiDeducibili.ipynb)
+1. [Grafici deducibili da grafici elementari](http://nbviewer.ipython.org/github/orporick/MathPhys/blob/master/notebooks/GraficiDeducibili.ipynb?flush_cache=true)
